@@ -1,0 +1,1 @@
+# product-detalis-node-app
